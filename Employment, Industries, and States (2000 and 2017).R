@@ -39,8 +39,7 @@ df_total_year <- df_total_renam %>%
 # dropping missing values from the "By Industry" dataset. 
 
 #Note: I will report the shares of labor per industry subject 
-# to the valid information in the dataset. We will not calculate 
-# the missing values since it has not been required for the HW.
+# to the valid information in the dataset.
 
 df_indus_na <- filter(df_indus_year, 
                       industry != "By industry",
