@@ -1,1 +1,1 @@
-Employment, Industries, and States (2000 and 2017)
+Name of project: Employment, Industries, and States (2000 and 2017)
